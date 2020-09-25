@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
                 Personaje(
                     R.drawable.ic_batman,
                     "Batman",
-                    "Batman es un superheroes sin superpoderes"
+                    "Batman es un superheroe sin superpoderes"
                 )
             )
 
